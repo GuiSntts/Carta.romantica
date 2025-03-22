@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cantinho Dedicado A Você</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff0f5; /* Rosa claro */
+      color: #800000; /* Tom vinho */
+      background-image: radial-gradient(circle, #ffe4e1, #ffc0cb); /* Fundo com gradiente suave de rosa */
+    }
+    header {
+      background-color: #ffb6c1; /* Rosa suave */
+      color: #800000;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #800000;
+      border-radius: 15px; /* Cantos arredondados no cabeçalho */
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Efeito de sombra */
+      background-image: url('https://example.com/rosas.png'); /* Substitua pelo URL de uma imagem romântica como rosas */
+      background-size: cover;
+      background-position: center;
+      font-style: italic;
+    }
+    nav {
+      background-color: #800000;
+      padding: 10px;
+      text-align: center;
+      border-radius: 10px; /* Cantos arredondados na navegação */
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 20px;
+      font-weight: bold;
+      font-size: 18px;
+      transition: color 0.3s ease-in-out; /* Transição suave ao passar o mouse */
+    }
+    nav a:hover {
+      color: #ffb6c1; /* Rosa suave ao passar o mouse */
+    }
+    main {
+      padding: 20px;
+      border-radius: 15px; /* Cantos arredondados no conteúdo principal */
+      background: rgba(255, 192, 203, 0.2); /* Fundo translúcido */
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Efeito de sombra */
+      font-family: 'Times New Roman', serif; /* Fonte clássica */
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #800000;
+      text-align: center;
+      border-bottom: 2px solid #ffb6c1;
+      padding-bottom: 5px;
+      font-style: italic; /* Destaque romântico nos títulos */
+    }
+    p {
+      line-height: 1.8;
+      font-size: 18px;
+      text-align: justify;
+    }
+    footer {
+      background-color: #ffb6c1;
+      color: #800000;
+      text-align: center;
+      padding: 10px;
+      width: 100%;
+      border-top: 3px solid #800000; /* Borda elegante no rodapé */
+      font-style: italic;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra delicada no rodapé */
+    }
+    footer p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Minha Princesa</h1>
+    <p>Um amor eterno que floresce a cada dia 🌹</p>
+  </header>
+  <nav>
+    <a href="#sobre">🤍 Eu Te Amarei Por Toda A Eternidade 🤍</a>
+  </nav>
+  <main>
+    <section id="sobre">
+      <h2>~Meu amor~</h2>
+      <p>
+        Eu quero que você saiba o quanto você é importante para mim. Desde que entrou na minha vida, tudo ganhou mais cor, mais sentido e mais felicidade. Você é o motivo dos meus sorrisos, o conforto nos meus dias difíceis e a inspiração que me faz querer ser uma pessoa melhor a cada dia.🤗❤️
+        <br><br>
+        O amor que sinto por você é imenso, infinito e cresce a cada instante todos os dias. É algo que não consigo medir, mas que sinto profundamente no meu coração. Você é a pessoa que eu amo de todo o coração, o meu ponto de paz em meio ao caos e a razão pela qual eu me sinto completo.❤️✨
+        <br><br>
+        A sua presença faz toda a diferença em minha vida. Você me mostrou que a felicidade está nos pequenos momentos, como em nossas ligações diárias, nas chamadas noturnas, onde adormecemos enquanto estamos em ligação, enquanto a gente dorme nossas almas entram em sintonia, nossos corações batem no mesmo ritmo, aprecio cada segundo que passo com você, me apaixono cada vez mais no som da sua voz, das suas risadas e no calor dos seus sentimentos. Meu coração vive sempre transbordando de amor por você. Com você, tudo fica mais leve, mais bonito e mais especial.😍🤗
+        <br><br>
+        Eu sou incrivelmente grato por ter você em minha vida. Quero te lembrar todos os dias do quanto eu te amo e do quanto você significa para mim. Você é, sem dúvida, a melhor parte da minha vida, e eu não me canso de agradecer por poder compartilhar essa jornada com você.🤗❤️✨
+        <br><br>
+        ❤️✨Ass: Guilherme Moreira dos Santos
+      </p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Minha cartinha com amor para você 💕</p>
+  </footer>
+</body>
+</html>
